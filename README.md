@@ -19,21 +19,6 @@ Features
 Image Viewer: Browse and view images from your device.
 Audio Player: Play audio files with controls for play, pause, and skip.
 Video Player: Watch videos with standard playback controls.
-Screenshots
-
-
-
-Installation
-To install and run the app on your device, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/multimedia-player-app.git
-Open the project in Android Studio.
-
-Build and run the project on your Android device or emulator.
 
 Usage
 Image Viewer: Navigate through your device's images, zoom in/out, and view in full-screen mode.
